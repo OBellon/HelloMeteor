@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "babel-helper-function-name": "^6.8.0",
+    "classnames": "^2.2.5",
     "meteor-node-stubs": "~0.2.0",
     "react": "^15.1.0",
     "react-addons-pure-render-mixin": "^15.1.0",
